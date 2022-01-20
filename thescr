@@ -11,7 +11,7 @@ game.StarterGui:SetCore("SendNotification", {
     Duration = dur or 5;
 })
 end
-
+wait(5.9)
 fuck('LX63Hub','Join to Discord server. https://discord.gg/ZNmRM6XS7R')
 
 
